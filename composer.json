@@ -11,5 +11,6 @@
             "Aex\\Packagetest\\": "src/"
         }
     },
+    "license": "MIT",
     "require": {}
 }
